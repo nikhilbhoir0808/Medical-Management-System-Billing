@@ -150,13 +150,13 @@ python main.py
 <div align="center">
 
 ### 🏠 Main Dashboard
-![Dashboard](path/to/screenshot1.png)
+![Dashboard](path/to/dashboard.png)
 
 ### 💊 Medicine Management
-![Medicine Management](path/to/screenshot2.png)
+![Medicine Management](medicinemanagement.png)
 
 ### 🧾 Billing Interface
-![Billing](path/to/screenshot3.png)
+![Billing](Billing.png)
 
 </div>
 
