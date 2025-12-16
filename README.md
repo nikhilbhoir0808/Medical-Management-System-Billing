@@ -150,7 +150,7 @@ python main.py
 <div align="center">
 
 ### 🏠 Main Dashboard
-![Dashboard](path/to/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### 💊 Medicine Management
 ![Medicine Management](medicinemanagement.png)
